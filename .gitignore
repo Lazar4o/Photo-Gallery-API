@@ -1,0 +1,19 @@
+# Dependencies
+/node_modules
+
+# Environment variables
+.env
+
+# Logs
+logs
+*.log
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional artifacts
+build
+dist
